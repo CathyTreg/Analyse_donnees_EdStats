@@ -1,4 +1,4 @@
-# Analyse_donnnes_EdStats
+# Analyse_donnees_EdStats
 Identification de pays à fort potentiel pour l’expansion internationale de l'entreprise Academy, Février 2024
 Projet réalisé dans le cadre du parcours de formation DataScientist d'OpenClassrooms.
 
