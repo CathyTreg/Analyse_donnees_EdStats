@@ -1,6 +1,5 @@
 # Analyse_donnees_EdStats
-Identification de pays à fort potentiel pour l’expansion internationale de l'entreprise Academy, Février 2024
-Projet réalisé dans le cadre du parcours de formation DataScientist d'OpenClassrooms.
+Identification de pays à fort potentiel pour l’expansion internationale de l'entreprise Academy - Projet réalisé en février 2024 dans le cadre du parcours de formation DataScientist d'OpenClassrooms.
 
 Contexte : 
 -	L’entreprise Academy, une start-up de la EdTech, propose des contenus de formation en ligne pour un public de niveau lycée et université. L’entreprise souhaite s’étendre à l’international. 
